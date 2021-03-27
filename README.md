@@ -1,2 +1,2 @@
-# SM516
+# SM516 Advance Programming
 ๊UTCC
